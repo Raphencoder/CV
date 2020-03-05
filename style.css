@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+}
+#box {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+#cv-box {
+	width: 40%;
+}
+
+#cv-box img {
+	position: relative;
+	width: 100%;
+	height: auto;
+}
