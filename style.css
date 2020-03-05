@@ -17,7 +17,7 @@ body {
 	height: auto;
 }
 
-@media all and (max-width: 1024px){
+@media all and (max-width: 1440px){
 
 #cv-box {
 	width: 100%
